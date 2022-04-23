@@ -1,0 +1,27 @@
+{
+  "name": "cli2vite",
+  "version": "0.0.1",
+  "description": "Convert any project's development environment from cli to vite.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosaab-emam/cli2vite.git"
+  },
+  "keywords": [
+    "cli",
+    "vite",
+    "automate",
+    "vue2"
+  ],
+  "author": "Mosaab Emam <mosaab.emem123@gmail.com> (mosaab-emam.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mosaab-emam/cli2vite/issues"
+  },
+  "homepage": "https://github.com/mosaab-emam/cli2vite#readme"
+}
